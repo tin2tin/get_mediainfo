@@ -3,3 +3,5 @@ In the Blender Video Seqeunce Editor, get Media Info for active strip and insert
 
 This python module is automatic installed with the add-on:
 https://github.com/truethari/infomedia
+
+![alt text](get_,media_info.png)
